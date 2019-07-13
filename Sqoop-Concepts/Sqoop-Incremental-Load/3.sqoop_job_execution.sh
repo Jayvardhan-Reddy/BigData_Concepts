@@ -1,0 +1,1 @@
+sqoop job --exec CustomerJob
