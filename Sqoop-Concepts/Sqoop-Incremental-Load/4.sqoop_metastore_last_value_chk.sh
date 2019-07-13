@@ -1,0 +1,1 @@
+nano metastore.db.script
