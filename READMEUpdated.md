@@ -21,3 +21,15 @@
 4. SPARK :boom:
 
 5. HBASE :whale2:
+
+6. Spark
+
+7. Flume
+
+8. Pig Latin: pig:
+
+9. Scala
+
+10. Java/Python
+
+11. YARN
